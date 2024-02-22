@@ -1,0 +1,4 @@
+C:\Users\admin\OpenAIChatBot\PalmDemo\obj\Debug\netcoreapp2.1\PalmDemo.csprojAssemblyReference.cache
+C:\Users\admin\OpenAIChatBot\PalmDemo\obj\Debug\netcoreapp2.1\PalmDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\OpenAIChatBot\PalmDemo\obj\Debug\netcoreapp2.1\PalmDemo.AssemblyInfoInputs.cache
+C:\Users\admin\OpenAIChatBot\PalmDemo\obj\Debug\netcoreapp2.1\PalmDemo.AssemblyInfo.cs
